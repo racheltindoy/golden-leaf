@@ -1,0 +1,30 @@
+#hero {
+	min-height: 1375px;
+}
+
+#container1 {
+	min-height: 624px;
+	padding: 90px 0;
+}
+
+.container1_info {
+	text-align: center;
+	width: 100%;
+	max-width: 860px;
+	margin: 0 auto;
+}
+
+.container1_info p {
+	margin-top: 15px;
+}
+
+.container1_hr {
+	width: 60px;
+	height: 16px;
+	background-color: #ffe636;
+	margin: 0 auto;
+}
+
+#partners {
+	margin-top: 35px
+}
