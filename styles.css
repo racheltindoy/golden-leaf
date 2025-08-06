@@ -39,7 +39,7 @@
 
 #container3 {
 	min-height: 985px;
-	padding: 109px 0;
+	padding: 109px 0 40px;
 }
 
 #container3_info {
@@ -64,6 +64,32 @@
 	max-width: 365px;;
 }
 
+
+#container4 {
+	min-height: 1179px;
+}
+
+.container4_info {
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+.container4_info2_info {
+	width: 100%;
+	max-width: 230px;;
+}
+
+
+
+#container5 {
+	min-height: 905px;
+}
+
+
+/* DUMMY */
+
 #containerDummy {
 	min-height: 500px;
 }
+
+
