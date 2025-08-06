@@ -83,6 +83,14 @@
 
 #container5 {
 	min-height: 905px;
+	padding: 160px 0 40px;
+
+}
+
+.container5_info {
+	width: 100%;
+	max-width: 465px;
+	margin-top: 125px;
 }
 
 
