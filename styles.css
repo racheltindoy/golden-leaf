@@ -94,6 +94,27 @@
 }
 
 
+#container6 {
+	background-color: #b05df1;
+	min-height: 686px;
+	padding: 135px 0;
+}
+
+.container6_info {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.container6_boxes > .container6_box {
+	width: 100%; 
+	max-width: 400px;
+	min-height: 240px;
+	border: 1px solid #fff;
+	border-radius: 12px;
+	text-align: center;
+}
+
 /* DUMMY */
 
 #containerDummy {
