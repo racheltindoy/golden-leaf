@@ -15,7 +15,7 @@
 
 .btm1_main {
 	min-height: 624px;
-	padding: 40px 0 0;
+	padding: 40px 0;
 }
 
 #btm1 img {
@@ -99,15 +99,15 @@
 	max-width: 230px;
 }
 
+#btm5 { background-color: #FBF7E9; }
 
-#container5 {
-	background-color: #FBF7E9;
+.btm5_main {
+	
 	min-height: 905px;
 	padding: 160px 0 40px;
-
 }
 
-.container5_info {
+.btm5_info {
 	width: 100%;
 	max-width: 465px;
 	margin-top: 125px;
