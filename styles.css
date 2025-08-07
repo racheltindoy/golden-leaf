@@ -81,23 +81,27 @@
 }
 
 
-#container4 {
+#btm4 {
 	min-height: 1179px;
 }
 
-.container4_info {
+.btm4_main {
+	padding: 90px 0 0;
+}
+
+.btm4_info {
 	max-width: 940px;
 	margin: 0 auto;
 }
 
-.container4_info2_info {
+.btm4_info2_info {
 	width: 100%;
-	max-width: 230px;;
+	max-width: 230px;
 }
 
 
-
 #container5 {
+	background-color: #FBF7E9;
 	min-height: 905px;
 	padding: 160px 0 40px;
 
