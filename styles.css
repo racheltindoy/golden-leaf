@@ -12,11 +12,11 @@
 
 .mt-50px {margin-top: 50px;}
 
-#btm1 {
+
+.btm1_main {
 	min-height: 624px;
 	padding: 40px 0 0;
 }
-
 
 #btm1 img {
 	height: 236px;
@@ -33,33 +33,46 @@
 	margin-top: 35px
 }
 
-#container2 {
+.btm2_main {
 	min-height: 340px;
 }
 
-#container3 {
-	min-height: 985px;
-	padding: 109px 0 40px;
+.btm2_main_info {
+	background-color: #B05DF1;
+	min-height: 218px;
+	position: relative;
 }
 
-#container3_info {
+.btm2_main .new {
+	position: absolute;
+	top: 3px;
+	right: 3px;
+}
+
+#btm3 {
+	min-height: 985px;
+	padding: 109px 0 40px;
+	background-color: #FBF7E9;
+}
+
+#btm3_info {
 	width: 100%;
 	max-width: 500px;
 }
 
-.container3_info2 {
+.btm3_info2 {
 	display: flex;;
 	justify-content: space-between;
 	align-items: flex-start;
 	padding: 0 30px;
 }
 
-.container3_info2 img {
+.btm3_info2 img {
 	width: 22px;
 	margin-right: 30px;
 }
 
-.container3_info2_text {
+.btm3_info2_text {
 	width: 100%;
 	max-width: 365px;;
 }
