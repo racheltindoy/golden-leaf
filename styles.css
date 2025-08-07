@@ -8,7 +8,7 @@
 
 #container1 {
 	min-height: 624px;
-	padding: 90px 0 0;
+	padding: 40px 0 0;
 }
 
 .container1_info {
@@ -178,9 +178,63 @@
 	margin-top: 25px;
 }
 
-.test {
-	display: flex;
-	align-items: center;
+#section8 {
+	min-height: 1072px;
+}
+
+.section8_main {
+	padding: 95px 0 0;
+}
+
+.section8_main_info p {
+	margin-top: 12px;
+}
+
+.btm8_main_boxes {
+	margin-top: 40px;
+}
+
+.btm8_main_box {
+	width: 395px;
+	min-height: 455px;
+	padding: 35px 35px 25px;
+}
+
+.btm8_main_box p {
+	margin-top: 25px;
+}
+
+.btm8_main_box .name {
+	margin-top: 20px;
+}
+
+.btm8_main_info2 {
+	margin-top: 100px;
+}
+
+#btm9 {
+	position: relative;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.btm9_main img {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.btm9_main {
+	min-height: 780px;
+}
+
+.btm10_main {
+	min-height: 465px;
+}
+
+.footer_main {
+	min-height: 865px;
 }
 
 /* DUMMY */
