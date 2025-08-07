@@ -50,14 +50,17 @@
 }
 
 #btm3 {
-	min-height: 985px;
-	padding: 109px 0 40px;
 	background-color: #FBF7E9;
 }
 
-#btm3_info {
+.btm3_main {
+	min-height: 985px;
+	padding: 109px 0 40px;
+}
+
+.btm3_info {
 	width: 100%;
-	max-width: 500px;
+	max-width: 440px;
 }
 
 .btm3_info2 {
