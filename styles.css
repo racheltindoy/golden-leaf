@@ -2,6 +2,10 @@
 	min-height: 1375px;
 }
 
+.container {
+	max-width: 1120px !important;
+}
+
 #container1 {
 	min-height: 624px;
 	padding: 90px 0 0;
@@ -113,6 +117,70 @@
 	border: 1px solid #fff;
 	border-radius: 12px;
 	text-align: center;
+}
+
+
+#container7 {
+	min-height: 705px;
+	padding: 95px 0 40px;
+	background-color: #FBF7E9;
+}
+
+.container7_info {
+	width: 100%;
+	max-width: 307px;;
+}
+
+.container7_info ul {
+	margin-top: 40px;
+}
+
+.container7_info ul li:first-child {
+	margin-top: 0 !important;
+}
+
+.container7_info ul li {
+	margin-top: 7px;
+}
+
+#container7_boxes_con {
+	width: 100%;
+	max-width: 752px;
+}
+
+
+.container7_boxes .container7_box {
+	width: 100%;
+	max-width: 360px;
+	min-height: 453px;
+	padding: 30px 25px;
+}
+
+.container7_boxes h3 {
+	margin-top: 27px;
+}
+
+.container7_boxes p {
+	margin-top: 17px;
+}
+
+.price {
+	display: block;
+	margin-top: 40px;
+	
+}
+
+.price_info {
+	display: block;
+}
+
+.container7_box a {
+	margin-top: 25px;
+}
+
+.test {
+	display: flex;
+	align-items: center;
 }
 
 /* DUMMY */
