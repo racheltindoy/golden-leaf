@@ -251,7 +251,28 @@ z-index: 5;
 	min-height: 865px;
 }
 
+.footer_nav ul  {
+	width: 160px;
+}
 
+.footer_main li {
+	list-style-type: none;
+	margin-top: 10px;
+
+}
+
+.footer_main li a {
+	color: #4b4b4b;
+	text-decoration: none;
+}
+
+.footer_main li a:hover {
+	text-decoration: underline;
+}
+
+.footer_info p {
+	color: #4b4b4b;
+}
 
 /* DUMMY */
 
