@@ -126,7 +126,7 @@
 	margin: 0 auto;
 }
 
-.btm6_boxes > .btm6_box {
+.btm6_box {
 	width: 100%; 
 	max-width: 32%;
 	min-height: 240px;
@@ -148,7 +148,7 @@
 }
 
 
-.btm6_boxes > .btm6_box::before {
+.btm6_box::before {
 	content: "";
 	width: 100%;
 	height: 100%;
@@ -162,63 +162,48 @@
 	border: 3px solid #fff;
 }
 
+.btm6_box h3, .btm6_box p { 
+position: relative;
+z-index: 5;
+}
 
-#container7 {
+
+
+#btm7 {
 	min-height: 705px;
 	padding: 95px 0 40px;
 	background-color: #FBF7E9;
 }
 
-.container7_info {
+.btm7_info {
 	width: 100%;
 	max-width: 307px;;
 }
 
-.container7_info ul {
+.btm7_info ul {
 	margin-top: 40px;
+	list-style-image: url('./images/check-mark.svg');
 }
 
-.container7_info ul li:first-child {
+
+.btm7_info ul li:first-child {
 	margin-top: 0 !important;
 }
 
-.container7_info ul li {
+
+.btm7_info ul li {
 	margin-top: 7px;
 }
 
-#container7_boxes_con {
+.btm7_boxes_con {
 	width: 100%;
 	max-width: 752px;
 }
 
-
-.container7_boxes .container7_box {
+.btm7_boxes .btm7_box {
 	width: 100%;
 	max-width: 360px;
 	min-height: 453px;
-	padding: 30px 25px;
-}
-
-.container7_boxes h3 {
-	margin-top: 27px;
-}
-
-.container7_boxes p {
-	margin-top: 17px;
-}
-
-.price {
-	display: block;
-	margin-top: 40px;
-	
-}
-
-.price_info {
-	display: block;
-}
-
-.container7_box a {
-	margin-top: 25px;
 }
 
 #section8 {
@@ -279,6 +264,8 @@
 .footer_main {
 	min-height: 865px;
 }
+
+
 
 /* DUMMY */
 
