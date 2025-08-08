@@ -206,39 +206,21 @@ z-index: 5;
 	min-height: 453px;
 }
 
-#section8 {
+.btm8_main {
 	min-height: 1072px;
-}
-
-.section8_main {
-	padding: 95px 0 0;
-}
-
-.section8_main_info p {
-	margin-top: 12px;
-}
-
-.btm8_main_boxes {
-	margin-top: 40px;
+	padding: 95px 0 40px;
 }
 
 .btm8_main_box {
-	width: 395px;
+	width: 100%;
+	max-width: 30%;
 	min-height: 455px;
-	padding: 35px 35px 25px;
-}
-
-.btm8_main_box p {
-	margin-top: 25px;
-}
-
-.btm8_main_box .name {
-	margin-top: 20px;
 }
 
 .btm8_main_info2 {
 	margin-top: 100px;
 }
+
 
 #btm9 {
 	position: relative;
