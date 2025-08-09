@@ -1,3 +1,36 @@
+nav {
+	background-color: rgb(93, 192, 254);
+}
+
+
+#navbarTogglerDemo02 {
+	max-width: 750px;
+}
+
+#navbarTogglerDemo02 .nav-item {
+	margin-right: 50px;
+}
+
+#navbarTogglerDemo02 .nav-item a {
+	color: #fff;
+}
+
+
+#navbarTogglerDemo02 .nav-item:last-child {
+	margin-right: 0 !important;
+}
+
+#navbarTogglerDemo02 .nav-item:last-child a {
+	background: #fff;
+	padding: 10px 15px;
+	color: rgb(93, 192, 254);
+}
+
+#navbarTogglerDemo02 .nav-item:last-child a:hover {
+	background: rgb(125, 205, 254);
+	color: #fff;
+}
+
 #hero {
 	min-height: 1375px;
 }
@@ -279,5 +312,3 @@ z-index: 5;
 #containerDummy {
 	min-height: 500px;
 }
-
-
